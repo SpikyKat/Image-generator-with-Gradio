@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.safetensors
+*.pt
+*.pth
+*.log
+*.tmp
+.idea/
+.DS_Store
+*.png
+*.jpg
